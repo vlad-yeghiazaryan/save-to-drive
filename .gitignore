@@ -1,8 +1,6 @@
 virtualenv
 client_secrets.json
 credentials.json
-mediumScraper.zip
 .DS_Store
 __pycache__
-regex-gdrive-scraper.zip
-
+save-to-drive.zip
